@@ -10,5 +10,3 @@ def using_pop(array)
   deleted_string=array.pop 
   #deleted_string
 end
-
-def 
