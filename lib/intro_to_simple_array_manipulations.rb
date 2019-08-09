@@ -10,7 +10,8 @@ def using_pop(array)
   deleted_string=array.pop 
 end
 
-def pop_with_args(array,integer)
+def pop_with_args(array)
+  interger=2
   array.pop(integer)
 end
 
